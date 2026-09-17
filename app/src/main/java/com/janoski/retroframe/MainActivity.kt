@@ -67,7 +67,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.core.content.ContextCompat
-import com.komoui.KomoTheme
+import com.komoui.themes.KomoTheme
 import com.komoui.components.Button as KomoButton
 import kotlin.math.roundToInt
 

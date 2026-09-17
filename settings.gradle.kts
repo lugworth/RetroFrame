@@ -17,9 +17,3 @@ dependencyResolutionManagement {
 rootProject.name = "RetroFrame"
 include(":app")
 
-develocity {
-    buildScan {
-        termsOfUseUrl.set("https://gradle.com/help/legal-terms-of-use")
-        termsOfUseAgree.set("yes")
-    }
-}

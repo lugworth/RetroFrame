@@ -22,7 +22,7 @@ object FilterProcessor {
         val grain = (preset.grain * intensity).coerceIn(0f, 1f)
         val vignette = (preset.vignette * intensity).coerceIn(0f, 1f)
 
-        val seed = 0x9E3779B9
+        val seed = 0x9E3779B9.toInt()
         val centerX = (w - 1) * 0.5f
         val centerY = (h - 1) * 0.5f
         val maxDist = sqrt(centerX * centerX + centerY * centerY)
