@@ -1,0 +1,110 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/settings.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 22,
+          "index": 272,
+          "line": 12
+        },
+        "start": {
+          "column": 22,
+          "index": 272,
+          "line": 12
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/gradle/wrapper/gradle-wrapper.properties",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/gradle.properties",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/app/src/main/java/com/janoski/retroframe/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/gradlew",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 2818,
+          "line": 69
+        },
+        "start": {
+          "column": 11,
+          "index": 2818,
+          "line": 69
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AStudio/Filmer/RetroFrame-android-1/RetroFrame/app/build.gradle.kts"
+}
